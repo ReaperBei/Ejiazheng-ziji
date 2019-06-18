@@ -205,7 +205,6 @@
           <div class="margin-l-30 t-f-40">退货</div>
           <div class="margin-l-30 hs-666">查看退货政策</div>
           <div class="margin-t-40">
-            <div class="t-f-26">最新订单</div>
             <div class="personal-2 margin-t-10">
               <div>
                 <span class="personal-span margin-r-10">!</span>
