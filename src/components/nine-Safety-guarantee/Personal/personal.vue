@@ -38,6 +38,7 @@
         </div>
       </el-tab-pane>
       <el-tab-pane label="配送地址薄">
+        <!--我家二网格-->
         <div class="personal-l-200 f-weight-400 personal-pc">
           <div class="margin-l-30 t-f-40">配送地址薄</div>
           <div class="personal-3 margin-t-40">新的配送地址</div>
@@ -130,7 +131,7 @@
         <div class="personal-l-200 f-weight-400 personal-zh">
           <div class="margin-l-30 t-f-40">账户信息</div>
           <div class="margin-t-50 personal-inpt">
-            <div class="margin-b-5">*姓名</div>
+            <div class="margin-b-5">*性命</div>
             <input type="text">
           </div>
           <div class="margin-t-30 personal-inpt">
