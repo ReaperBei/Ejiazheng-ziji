@@ -4,7 +4,7 @@
       <el-tab-pane label="我的账户">
         <div class="personal-l-200 f-weight-400">
           <div class="margin-l-30 t-f-40">我的账户</div>
-          <div class="margin-t-40 hs-666">
+          <div class="margin-t-40 jsjs hs-666">
             <div class="t-f-26">
               <span >婴婴婴</span>
               <span>您好</span>
