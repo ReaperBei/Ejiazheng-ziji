@@ -211,10 +211,6 @@
                 <span class="personal-span margin-r-10">!</span>
                 <span>您没有订单</span>
               </div>
-              <div class="margin-t-10">
-                <span class="personal-span margin-r-10">!</span>
-                <span>您没有退货</span>
-              </div>
             </div>
           </div>
         </div>
