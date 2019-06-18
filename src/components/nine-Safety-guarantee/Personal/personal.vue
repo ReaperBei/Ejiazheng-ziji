@@ -229,6 +229,8 @@
         </div>
       </el-tab-pane>
       <el-tab-pane label="退出"></el-tab-pane>
+      <div>稳固我给</div>
+      <div>我喂喂喂</div>
     </el-tabs>
   </div>
 </template>
