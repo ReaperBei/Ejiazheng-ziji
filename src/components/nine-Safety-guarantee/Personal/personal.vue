@@ -189,7 +189,6 @@
               <span>我愿意订阅浪琴品牌电子期刊</span>
             </label>
           </div>
-          <button class="perl-btn cursor">保存我的账号</button>
         </div>
       </el-tab-pane>
       <el-tab-pane label="我的心愿清单">
