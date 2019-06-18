@@ -208,7 +208,6 @@
             <div class="personal-2 margin-t-10">
               <div>
                 <span class="personal-span margin-r-10">!</span>
-                <span>您没有订单</span>
               </div>
             </div>
           </div>
